@@ -1,5 +1,5 @@
-%\documentclass[nojss,shortnames]{jss}
-\documentclass[article,shortnames]{jss}
+\documentclass[nojss,shortnames]{jss}
+%\documentclass[article,shortnames]{jss}
 \usepackage[utf8]{inputenc}
 \usepackage{float}
 \restylefloat{figure}
